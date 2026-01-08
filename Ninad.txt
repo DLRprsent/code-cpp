@@ -1,0 +1,128 @@
+C++ Assignment Slips
+
+Assignment Slip – 1
+1. Design a mini ATM interface that simulates balance inquiry, deposit, and withdrawal
+using encapsulation and basic C++ constructs.
+2. Create a C++ program to simulate a basic calculator supporting expression parsing using
+function overloading and inline functions.
+Assignment Slip – 2
+1. Write a menu-driven program using control structures to simulate a student grading
+system with support for conditional and looping constructs.
+
+2. Implement a class for a Complex Number, overload the +, -, and * operators, and manage
+memory using dynamic allocation.
+Assignment Slip – 3
+1. Design a class for a Student Database that allows the addition, deletion, and search of
+student records using static members and friend functions.
+2. Create a pointer-based implementation of a class where objects are dynamically created
+and manipulated using the this pointer and constructors/destructors.
+Assignment Slip – 4
+1. Implement a multi-level inheritance model representing an organization hierarchy and
+demonstrate method overriding and virtual functions.
+2. Create a template-based sorting class that works with multiple data types and
+incorporates exception handling for invalid inputs.
+Assignment Slip – 5
+1. Design a payroll system using run-time polymorphism (abstract classes + pure virtual
+functions) for different employee types (hourly, salaried, contractual).
+2. Create a program using hybrid inheritance to model academic and extracurricular
+performance and resolve ambiguity using virtual base classes.
+*Assignment Slip – 6
+1. Develop a custom vector class using C++ STL and templates, with member functions to
+perform insert, delete, and search operations.
+2. Write a C++ program to simulate a bank transaction system that throws and handles
+multiple exceptions (e.g., insufficient funds, invalid account).
+*Assignment Slip – 7
+1. Write a menu-driven program using control structures to simulate a student grading
+system with support for conditional and looping constructs.
+2. Design a C++ program that logs errors into a file and uses exception handling to manage
+file not found or access denied issues.
+Assignment Slip – 8
+1. Design a mini ATM interface that simulates balance inquiry, deposit, and withdrawal
+using encapsulation and basic C++ constructs.
+2. Create a C++ program to simulate a basic calculator supporting expression parsing using
+function overloading and inline functions.
+Assignment Slip – 9
+1. Write a menu-driven program using control structures to simulate a student grading
+system with support for conditional and looping constructs.
+2. Implement a class for a Complex Number, overload the +, -, and * operators, and manage
+memory using dynamic allocation.
+Assignment Slip – 10
+1. Design a class for a Student Database that allows the addition, deletion, and search of
+student records using static members and friend functions.
+2. Create a pointer-based implementation of a class where objects are dynamically created
+and manipulated using the this pointer and constructors/destructors.
+Assignment Slip – 11
+1. Implement a multi-level inheritance model representing an organization hierarchy and
+demonstrate method overriding and virtual functions.
+2. Create a program using hybrid inheritance to model academic and extracurricular
+performance and resolve ambiguity using virtual base classes.
+*Assignment Slip – 12
+1. Design a payroll system using run-time polymorphism (abstract classes + pure virtual
+functions) for different employee types (hourly, salaried, contractual).
+2. Create a template-based sorting class that works with multiple data types and
+incorporates exception handling for invalid inputs.
+*Assignment Slip – 13
+1. Develop a custom vector class using C++ STL and templates, with member functions to
+perform insert, delete, and search operations.
+2. Write a C++ program to simulate a bank transaction system that throws and handles
+multiple exceptions (e.g., insufficient funds, invalid account).
+Assignment Slip – 14
+1. Design a mini ATM interface that simulates balance inquiry, deposit, and withdrawal
+using encapsulation and basic C++ constructs.
+2. Design a C++ program that logs errors into a file and uses exception handling to manage
+file not found or access denied issues.
+Assignment Slip – 15
+1. Create a Library Management System using file I/O to store and retrieve book records.
+Include command-line arguments to filter search results.
+2. Create a C++ program to simulate a basic calculator supporting expression parsing using
+function overloading and inline functions.
+Assignment Slip – 16
+1. Write a menu-driven program using control structures to simulate a student grading
+system with support for conditional and looping constructs.
+2. Implement a class for a Complex Number, overload the +, -, and * operators, and manage
+memory using dynamic allocation.
+Assignment Slip – 17
+1. Design a class for a Student Database that allows the addition, deletion, and search of
+student records using static members and friend functions.
+2. Create a pointer-based implementation of a class where objects are dynamically created
+and manipulated using the this pointer and constructors/destructors.
+Assignment Slip – 18
+1. Implement a multi-level inheritance model representing an organization hierarchy and
+demonstrate method overriding and virtual functions.
+2. Create a program using hybrid inheritance to model academic and extracurricular
+performance and resolve ambiguity using virtual base classes.
+*Assignment Slip – 19
+1. Design a payroll system using run-time polymorphism (abstract classes + pure virtual
+functions) for different employee types (hourly, salaried, contractual).
+2. Create a template-based sorting class that works with multiple data types and
+incorporates exception handling for invalid inputs.
+*Assignment Slip – 20
+1. Develop a custom vector class using C++ STL and templates, with member functions to
+perform insert, delete, and search operations.
+2. Write a C++ program to simulate a bank transaction system that throws and handles
+multiple exceptions (e.g., insufficient funds, invalid account).
+Assignment Slip – 21
+1. Write a menu-driven program using control structures to simulate a student grading
+system with support for conditional and looping constructs.
+2. Design a C++ program that logs errors into a file and uses exception handling to manage
+file not found or access denied issues.
+Assignment Slip – 22
+1. Design a mini ATM interface that simulates balance inquiry, deposit, and withdrawal
+using encapsulation and basic C++ constructs.
+2. Create a C++ program to simulate a basic calculator supporting expression parsing using
+function overloading and inline functions.
+Assignment Slip – 23
+1. Write a menu-driven program using control structures to simulate a student grading
+system with support for conditional and looping constructs.
+2. Implement a class for a Complex Number, overload the +, -, and * operators, and manage
+memory using dynamic allocation.
+Assignment Slip – 24
+1. Design a class for a Student Database that allows the addition, deletion, and search of
+student records using static members and friend functions.
+2 Create a program using hybrid inheritance to model academic and extracurricular
+performance and resolve ambiguity using virtual base classes.
+Assignment Slip – 25
+1. Implement a multi-level inheritance model representing an organization hierarchy and
+demonstrate method overriding and virtual functions.
+2. Create a pointer-based implementation of a class where objects are dynamically created
+and manipulated using this pointer and constructors/destructors.
