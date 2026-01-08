@@ -1,0 +1,123 @@
+//Q1
+
+/*#include <iostream.h>
+#include <conio.h>
+#include <string.h>
+
+class Employee
+{
+protected:
+    int id;
+
+public:
+    Employee(int i)
+    {
+	id = i;
+    }
+
+    virtual void display()   // virtual function
+    {
+	cout << "Employee ID: " << id << endl;
+    }
+};
+
+class Manager : public Employee
+{
+protected:
+    char department[20];
+
+public:
+    Manager(int i, char d[]) : Employee(i)
+    {
+	strcpy(department, d);
+    }
+
+    void display()   // method overriding
+    {
+	cout << "Manager ID: " << id << endl;
+	cout << "Department: " << department << endl;
+    }
+};
+
+class Director : public Manager
+{
+protected:
+    float budget;
+
+public:
+    Director(int i, char d[], float b) : Manager(i, d)
+    {
+	budget = b;
+    }
+
+    void display()   // method overriding
+    {
+	cout << "Director ID: " << id << endl;
+	cout << "Department: " << department << endl;
+	cout << "Budget: " << budget << endl;
+    }
+};
+
+void main()
+{
+    clrscr();
+
+    Employee *e;          // base class pointer
+    Director d(101, "IT", 500000);
+
+    e = &d;               // base pointer → derived object
+    e->display();         // runtime polymorphism
+
+    getch();
+}*/
+
+//Q2
+#include <iostream.h>
+#include <conio.h>
+
+class Box
+{
+    int length;
+
+public:
+    // Constructor
+    Box(int l)
+    {
+        this->length = l;   // using this pointer
+        cout << "\nConstructor called";
+    }
+
+    void setLength(int l)
+    {
+        this->length = l;   // using this pointer
+    }
+
+    void show()
+    {
+        cout << "\nLength = " << length;
+    }
+
+    // Destructor
+    ~Box()
+    {
+        cout << "\nDestructor called";
+    }
+};
+
+void main()
+{
+    clrscr();
+
+    // Dynamic object creation using pointer
+    Box *b = new Box(10);
+
+    b->show();
+    b->setLength(20);
+    b->show();
+
+    // Free memory
+    delete b;
+
+    getch();
+}
+
